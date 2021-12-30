@@ -1,0 +1,1 @@
+{"database":{"users":[{"_id":2,"name":"Hector"},{"_id":3,"name":"Adeline"}],"transactions":[{"_id":0,"amount":100,"user":1},{"_id":1,"amount":100,"user":1},{"_id":2,"amount":100,"user":2},{"_id":3,"amount":100,"user":2},{"_id":4,"amount":100,"user":2},{"_id":5,"amount":100,"user":1}]}}
