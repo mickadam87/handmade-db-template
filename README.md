@@ -1,0 +1,3 @@
+### Typescript NodeJS simple template
+
+One small step for a man, a giant leap for Mankind...
